@@ -1,0 +1,2 @@
+symka_core:
+  resource: "@SymkaCoreBundle/Resource/config/routes/all.xml"

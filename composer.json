@@ -1,4 +1,5 @@
 {
+    "name": "symka/symka-build",
     "type": "project",
     "license": "proprietary",
     "require": {

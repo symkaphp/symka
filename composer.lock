@@ -6020,12 +6020,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symkaphp/core.git",
-                "reference": "525ef48e804dcb64735c456e83a982479c90797a"
+                "reference": "0f633d6db4a2f01d5ad2635ade7ddfc8e2e25c64"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symkaphp/core/zipball/525ef48e804dcb64735c456e83a982479c90797a",
-                "reference": "525ef48e804dcb64735c456e83a982479c90797a",
+                "url": "https://api.github.com/repos/symkaphp/core/zipball/0f633d6db4a2f01d5ad2635ade7ddfc8e2e25c64",
+                "reference": "0f633d6db4a2f01d5ad2635ade7ddfc8e2e25c64",
                 "shasum": ""
             },
             "require": {
@@ -6055,7 +6055,7 @@
                 }
             ],
             "description": "Symka Core Bundle",
-            "time": "2020-01-07T12:26:08+00:00"
+            "time": "2020-01-07T13:17:08+00:00"
         },
         {
             "name": "twig/extra-bundle",
